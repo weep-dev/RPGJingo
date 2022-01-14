@@ -12,4 +12,4 @@ O game foi feito na engine Construct 2, que é baseada em Html5.
 
 
 
-* Todos os aquivos foram retirados da internet, podem ou não conter conteúdo com copyright *
+* Todos os aquivos foram retirados da internet, podem ou não conter conteúdo com copyright
